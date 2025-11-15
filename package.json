@@ -1,0 +1,25 @@
+{
+  "name": "mediascript-js",
+  "version": "1.0.0",
+  "description": "A video editing API based NotSoBot MediaScript, but working like MoviePy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salagata/mediascript-js.git"
+  },
+  "keywords": [
+    "video",
+    "ffmpeg",
+    "edit",
+    "video-edit"
+  ],
+  "author": "@salagata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salagata/mediascript-js/issues"
+  },
+  "homepage": "https://github.com/salagata/mediascript-js#readme"
+}
